@@ -1,0 +1,7 @@
+C:\MyProjects\Tutorial Projects\JWP.API\JWP.API\bin\Debug\JWP.API.dll
+C:\MyProjects\Tutorial Projects\JWP.API\JWP.API\bin\Debug\JWP.API.pdb
+C:\MyProjects\Tutorial Projects\JWP.API\JWP.API\bin\Debug\Newtonsoft.Json.dll
+C:\MyProjects\Tutorial Projects\JWP.API\JWP.API\bin\Debug\Newtonsoft.Json.xml
+C:\MyProjects\Tutorial Projects\JWP.API\JWP.API\obj\Debug\JWP.API.dll
+C:\MyProjects\Tutorial Projects\JWP.API\JWP.API\obj\Debug\JWP.API.pdb
+C:\MyProjects\Tutorial Projects\JWP.API\JWP.API\obj\Debug\JWP.API.csprojResolveAssemblyReference.cache
